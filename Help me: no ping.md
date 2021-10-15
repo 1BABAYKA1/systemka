@@ -27,6 +27,7 @@ SW2
 %LINK-5-CHANGED: Interface FastEthernet0/5, changed state to up
 
 %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/5, changed state to up
+![image](https://github.com/1BABAYKA1/systemka/blob/main/2021-10-15%20(3).png?raw=true)
 
 
 
